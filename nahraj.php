@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-tu bude tlacidlo na nahranie vzor
-
+  <p><button></button></p>
 </body>
 </html>
